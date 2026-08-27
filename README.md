@@ -1,10 +1,10 @@
 <div align="center">
 
-# Hi 👋, I'm [Your Name]
-### Full Stack Developer • AI Enthusiast • Content Creator
+# Hi 👋, I'm KALYAN MYSKER
+### Python Full Stack Developer • AI Enthusiast • Cloud 
 
 <!-- Optional Hero Image / Banner -->
-<img src="https://via.placeholder.com/800x400" alt="Hero Image" width="100%" />
+<img src="https://www.linkedin.com/in/kalyan-mysker/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BFx8LJ6KAT5mLQNl41cURuw%3D%3D" alt="Hero Image" width="100%" />
 
 <br/>
 
