@@ -1,21 +1,21 @@
 <div align="center">
 
-<!-- GRADIENT HEADER BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,0,36,9,9,121,0,212,255&height=200&section=header&text=Kalyan%20Mysker&fontSize=60&fontColor=fff&animation=twinkling&desc=AI%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20Cloud%20Architect&descSize=18&descAlignColor=00f5d4&descAlign=50" width="100%" />
+<!-- GRADIENT HEADER BANNER (NAME ONLY) -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,0,36,9,9,121,0,212,255&height=180&section=header&text=Kalyan%20Mysker&fontSize=65&fontColor=fff&animation=twinkling" width="100%" />
 
 <br/>
+
+<!-- SUBTITLE & ROLES -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=00F5D4&center=true&vCenter=true&width=800&lines=%E2%9A%A1+AI+Engineer+%7C+Full+Stack+Developer+%7C+Cloud+Architect;%F0%9F%A4%96+Building+Agentic+AI+Systems+%26+RAG+Pipelines;%F0%9F%92%BB+Full+Stack+Development+with+Django%2C+FastAPI+%26+React;%E2%98%81%EF%B8%8F+Deploying+Cloud+Infrastructure+on+AWS+%26+Kubernetes" alt="Typing SVG" />
+</a>
+
+<br/><br/>
 
 <!-- CONNECT BADGES -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kalyanmysker)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Kalyan1012)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kalyanmysker@example.com)
-
-<br/>
-
-<!-- DYNAMIC TYPING TEXT -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F5D4&center=true&vCenter=true&width=700&lines=Building+Agentic+AI+Systems+%26+RAG+Pipelines;Full+Stack+Development+with+Django+%26+React;Deploying+Cloud+Infrastructure+on+AWS+%26+K8s;Mastering+Data+Structures+%26+Algorithms" alt="Typing SVG" />
-</a>
 
 </div>
 
@@ -35,7 +35,7 @@
 
 ---
 
-### 💻 Programming Languages & Web Development
+### 💻 Programming Languages & Web Stack
 
 **Languages**  
 <p align="left">
@@ -54,7 +54,7 @@
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
 </p>
 
-**Backend Stack**  
+**Backend Frameworks**  
 <p align="left">
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
@@ -77,16 +77,20 @@
 
 ---
 
-### 📊 GitHub Performance Dashboard
+### 📊 GitHub Activity & Metrics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Kalyan1012&show_icons=true&theme=synthwave&hide_border=false&border_color=00f5d4&border_radius=10" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Kalyan1012&theme=synthwave&hide_border=false&border_color=00f5d4&border_radius=10" width="48%" />
+<!-- RELIABLE STATS CARDS -->
+<p align="center">
+  <img src="https://github-readme-stats-git-masterrst-anuraghazra1.vercel.app/api?username=Kalyan1012&show_icons=true&theme=tokyonight&hide_border=false&border_color=00f5d4&border_radius=8" width="48%" />
+  <img src="https://github-readme-stats-git-masterrst-anuraghazra1.vercel.app/api/top-langs/?username=Kalyan1012&layout=compact&theme=tokyonight&hide_border=false&border_color=00f5d4&border_radius=8" width="48%" />
+</p>
 
-<br/><br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kalyan1012&layout=compact&theme=synthwave&hide_border=false&border_color=00f5d4&border_radius=10" width="60%" />
+<!-- CONTRIBUTION GRAPH BACKUP -->
+<p align="center">
+  <img src="https://ghchart.rshah.org/00f5d4/Kalyan1012" alt="Kalyan's Github Chart" width="100%" />
+</p>
 
 </div>
 
